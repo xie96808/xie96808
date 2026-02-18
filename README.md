@@ -7,7 +7,6 @@
 
 <!-- 快捷链接 -->
 <p align="center">
-  <a href="https://xieyw.top">Website</a> ·
   <a href="https://github.com/xie96808">GitHub</a> ·
   <a href="https://twitter.com/BillyXie5">X</a>
 </p>
@@ -46,8 +45,8 @@
 
 ## 🧩 Featured Projects
 
-- **TrendRadar**：多平台热点聚合 + AI 分析工具（fork）
-- **Simulated-Annealing**：模拟退火算法
+- **TrendRadar**：多平台热点聚合 + AI 分析工具
+- **Simulated-Annealing**：模拟退火算法demo
 - **activity**：高性能吉他维修预约网站
 - **stock_website**：股市模拟盘小游戏
 - **xie96808.github.io**：个人站点
@@ -65,6 +64,6 @@
 
 ## ☕ Culture
 
-- **Life Philosophy**: Build things that are useful & fun.
+- **Life Philosophy**: Build things that are useful & fun!
 - **Values**: Creativity · Transparency · Truth-seeking
 - **Collab**: Be kind, be specific, ship it 🚢

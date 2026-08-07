@@ -1,13 +1,13 @@
 <!-- 顶部标题 -->
 <h1 align="center">Hi, I'm Bill Xie 🍍</h1>
 <p align="center">
-  GPU infrastructure engineer with a background in EDA software.
+  GPU infrastructure engineer with a background in EDA software.   
 
-  I'm interested in:
-    - AI inference infrastructure
-    -  GPU runtimes and heterogeneous computing
-    - Performance analysis and observability
-    - Reproducible ML systems
+  I'm interested in:  
+    - AI inference infrastructure  
+    - GPU runtimes and heterogeneous computing  
+    - Performance analysis and observability  
+    - Reproducible ML systems   
 
 ## Currently building
 

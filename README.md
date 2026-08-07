@@ -1,8 +1,17 @@
 <!-- 顶部标题 -->
-<h1 align="center">Hi, I'm Billy Xie 🍍</h1>
+<h1 align="center">Hi, I'm Bill Xie 🍍</h1>
 <p align="center">
-  Embedded → SDE • Fingerstyle Guitar • Vibe Coder <br/>
-  Let's talk tech: PRs welcome!
+  GPU infrastructure engineer with a background in EDA software.
+
+  I'm interested in:
+    - AI inference infrastructure
+    -  GPU runtimes and heterogeneous computing
+    - Performance analysis and observability
+    - Reproducible ML systems
+
+## Currently building
+
+🔍 AI Infra Doctor — Diagnose GPU, CUDA, PyTorch and inference environments.
 </p>
 
 <!-- 快捷链接 -->

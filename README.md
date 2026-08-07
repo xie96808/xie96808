@@ -1,33 +1,49 @@
 <!-- 顶部标题 -->
 <h1 align="center">Hi, I'm Bill Xie 🍍</h1>
+
 <p align="center">
-  GPU infrastructure engineer with a background in EDA software.   
+  GPU Infrastructure Engineer · Former EDA Software Engineer
+</p>
 
-  I'm interested in:  
-    - AI inference infrastructure  
-    - GPU runtimes and heterogeneous computing  
-    - Performance analysis and observability  
-    - Reproducible ML systems   
-
-## Currently building
-
-🔍 AI Infra Doctor — Diagnose GPU, CUDA, PyTorch and inference environments.
+<p align="center">
+  Building reliable, observable, and reproducible AI systems.
 </p>
 
 <!-- 快捷链接 -->
 <p align="center">
   <a href="https://github.com/xie96808">GitHub</a> ·
-  <a href="https://twitter.com/BillyXie5">X</a>
+  <a href="https://x.com/BillyXie5">X</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 📍 Hangzhou, China
-- 🧠 Interested in: Embedded / Engineering / Web tools
+- 📍 Based in Hangzhou, China
+- 💻 Working on GPU infrastructure
+- 🧩 Previously worked on large-scale EDA software
+- 🧠 Interested in AI inference infrastructure, GPU runtimes, heterogeneous computing, and performance engineering
+- 🔭 Exploring observability and reproducibility for AI systems
 - 🎸 Fingerstyle guitar lover
-- 🤝 Open to collaboration: Issues & PRs are welcome
+- 🤝 Open to collaboration — issues and pull requests are welcome
+
+---
+
+## 🔍 Currently Building
+
+### AI Infra Doctor
+
+A developer tool for diagnosing GPU, CUDA, PyTorch, container, and AI inference environments.
+
+Planned capabilities:
+
+- GPU and system environment inspection
+- CUDA, Driver, Toolkit, and PyTorch compatibility checks
+- Docker and inference framework diagnostics
+- Reproducible and privacy-friendly environment reports
+- Environment comparison across different machines
+
+> Currently in the early design and development stage.
 
 ---
 
